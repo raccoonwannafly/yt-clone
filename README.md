@@ -2,12 +2,13 @@
 
 #### Description
 - Prototype for a Youtube Clone
-- Built with ReactJS (CRA), Axios, MaterialUI
+- Built with ReactJS (CRA), Axios, MaterialUI, Emotion Library
 - Deployed on Netlify
 - Still early in development..
 - Live URL: https://yt-clone-raccoonwannafly.netlify.app/
 
 ****** For CRA stuff head on to CRA_README.MD
+****** For dev stuff head on to DEV_README.MD
 
 #### Features
 - Fetch data from Rapid API Youtube V3 Freemium (https://rapidapi.com/ytdlfree/api/youtube-v31/)
