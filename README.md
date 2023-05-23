@@ -17,6 +17,12 @@
 - Channel page
 - If fetch scripts fail to fetch thumbnails or other info, it will instead display demo placeholder. 
 - Images:
+![image](https://github.com/raccoonwannafly/yt-clone/assets/130273473/1a2d65fc-4edd-43bd-92f7-543c83ebe269)
+![image](https://github.com/raccoonwannafly/yt-clone/assets/130273473/1502c6ef-83b5-4d93-9a5a-7b741cfe639b)
+![image](https://github.com/raccoonwannafly/yt-clone/assets/130273473/9fd7295c-dbdc-42b7-9a6b-e7bd89ffbe4b)
+![image](https://github.com/raccoonwannafly/yt-clone/assets/130273473/e78f9a57-25c6-4a5b-aaf0-8ccc02981b0f)
+
+
 
 
 ###### Quirks
