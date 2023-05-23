@@ -6,6 +6,7 @@
 - Deployed on Netlify
 - Still early in development..
 - Live URL: https://yt-clone-raccoonwannafly.netlify.app/
+- Huge thanks to JSM: https://www.youtube.com/@javascriptmastery
 
 ****** For CRA stuff head on to CRA_README.MD
 
