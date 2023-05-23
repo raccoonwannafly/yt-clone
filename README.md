@@ -13,7 +13,8 @@
 - Display videos, search videos, watch videos (embeded Youtube)
 - Display related videos
 - Display view counts and like counts
-- Channel page 
+- Channel page
+- If fetch scripts fail to fetch thumbnails or other info, it will instead display demo placeholder. 
 - Images:
 
 
@@ -27,6 +28,9 @@
 - Use official Google dev Youtube Data API
 - Display comments
 - Login with Google via OAuth v2
+- UI Revamp
+- Darkmode toggle
+
 
 
 ###### Development:
