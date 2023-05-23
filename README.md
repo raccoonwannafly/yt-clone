@@ -39,7 +39,7 @@
 
 #### Development:
 Huge thanks to JSM: https://www.youtube.com/@javascriptmastery (https://gist.github.com/adrianhajdin)
-Rapid API Freemium is budget and fast to deploy so I picked it :).
+Rapid API Freemium is budget and fast to deploy.
 Currently its limited to 500 req per month.
 But RapidAPI at the time just layoff'd 80% of its staff. Most likely a sinking ship.
 So using its API is not future proof at all.
