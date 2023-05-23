@@ -6,7 +6,6 @@
 - Deployed on Netlify
 - Still early in development..
 - Live URL: https://yt-clone-raccoonwannafly.netlify.app/
-- Huge thanks to JSM: https://www.youtube.com/@javascriptmastery
 
 ****** For CRA stuff head on to CRA_README.MD
 
@@ -39,6 +38,7 @@
 
 
 #### Development:
+Huge thanks to JSM: https://www.youtube.com/@javascriptmastery (https://gist.github.com/adrianhajdin)
 Rapid API Freemium is budget and fast to deploy so I picked it :).
 Currently its limited to 500 req per month.
 But RapidAPI at the time just layoff'd 80% of its staff. Most likely a sinking ship.
