@@ -25,7 +25,7 @@
 
 #### Quirks
 - Search result display channels in different col / row
-- Home page doesn't randomize videos
+- Home page doesn't randomize videos, as the api returns first 50 results.
 - No channel banner available in this API
 - API slow response due to freemium model
 
