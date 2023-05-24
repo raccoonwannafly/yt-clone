@@ -4,7 +4,6 @@
 - Prototype for a Youtube Clone
 - Built with ReactJS (CRA), Axios, MaterialUI, Emotion Library
 - Deployed on Netlify
-- Still early in development..
 - Live URL: https://yt-clone-raccoonwannafly.netlify.app/
 
 ****** For CRA stuff head on to CRA_README.MD
